@@ -1,0 +1,7 @@
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\bin\Debug\PortalAlunoApplication.dll
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\bin\Debug\PortalAlunoApplication.pdb
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\bin\Debug\PortalAlunoModel.dll
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\bin\Debug\PortalAlunoModel.pdb
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\obj\Debug\PortalAlunoApplication.csprojResolveAssemblyReference.cache
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\obj\Debug\PortalAlunoApplication.dll
+c:\users\guilh\documents\visual studio 2015\Projects\PortalAluno\PortalAlunoApplication\obj\Debug\PortalAlunoApplication.pdb

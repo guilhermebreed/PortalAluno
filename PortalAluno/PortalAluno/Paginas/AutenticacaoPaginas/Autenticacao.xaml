@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PortalAluno.Paginas.AutenticacaoPaginas.Autenticacao"
+             Title="Portal do Aluno">
+  <StackLayout VerticalOptions="Center">
+    <Label x:Name="lblUsuario" Text="Usuario" TextColor="#555" FontSize="20" FontAttributes="Bold" />
+    
+    <Label x:Name="txtUsuario" PlaceHolder="Digite usuário" PlaceHolderColor="#CCC" FontSize="20" TextColor="#555" />
+    
+    <Label x:Name="lblSenha" Text="Senha" TextColor="#555" FontSize="20" FontAttributes="Bold" />
+    
+    <Label x:Name="txtSenha" PlaceHolder="Digite senha" PlaceHolderColor="#CCC" FontSize="20" TextColor="#555" />
+    
+    <Button Text="Entrar" Clicked="BtnAutenticar" />
+    
+  </StackLayout>
+</ContentPage>
